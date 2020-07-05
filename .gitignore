@@ -1,0 +1,3 @@
+*.pyc 
+
+venv/Lib/site-packages/chardet/__pycache__/
